@@ -1,0 +1,4 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+3ac08d12-e5a9-4050-ae85-5960cb16034e,Karvilan Panimo,micro,Miilunkankaantie 50,,,Enonkoski,South Savo,58160,Finland,+358 29 3093999,https://karvilanpanimo.fi,28.8576,62.0391
+0bf06320-d6da-404c-91fc-eeddbd4224b2,Nilkko Brewing,micro,Pyhävedentie 22,,,Mäntyharju,South Savo,52700,Finland,+358 50 3294743,https://www.nilkko.fi,26.7791,61.4161
+46d796d0-1261-4543-b032-abf15e75e9ff,Saimaa Brewing Company,micro,Insinöörinkatu 7,,,Mikkeli,South Savo,50150,Finland,+358 40 0507925,https://www.saimaabrewingco.fi,27.2721,61.6881

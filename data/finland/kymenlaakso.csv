@@ -1,0 +1,3 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+c112f176-ce2c-49d9-aa17-27c7074f7831,Panimo Hoppa,micro,Valtakatu 11,,,Kuusankoski,Kymenlaakso,45700,Finland,+358 44 9789397,https://panimohoppa.fi,26.6351,60.9104
+d17abafc-c1ee-4df7-b944-5bc2cab5ebb2,Takatalo & Tompuri Brewery,micro,Uskintie 23 C,,,Ravijoki,Kymenlaakso,49980,Finland,+358 50 5543216,https://takatalotompuri.com,27.5512,60.5231

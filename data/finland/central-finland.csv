@@ -1,0 +1,3 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+80a09127-0c0d-4477-9314-e52616b4cac3,Hiisi,micro,Lutakonaukio 3,,,Jyväskylä,Central Finland,40100,Finland,+358 50 3399416,https://hiisi.beer,25.7928,62.2547
+6dca0f31-536b-479d-b52e-b3df9b8ac51c,Panimoyhtiö X,micro,Helmintie 10,,,Jyväskylä,Central Finland,40250,Finland,+358 50 5906392,https://www.panimoyhtiox.fi,25.7512,62.2641

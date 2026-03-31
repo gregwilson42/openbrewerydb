@@ -1,0 +1,3 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+7dfdacdb-8296-4e13-8e77-9f76b2e4510b,Iso-Kallan Panimo,micro,Siikaranta 5,,,Kuopio,North Savo,70620,Finland,+358 40 5562321,https://www.isokallanpanimo.fi,27.6891,62.8797
+a038cbba-998e-403a-8b7e-edfd878c5a46,RPS Brewing,micro,Siikaranta 3 B,,,Kuopio,North Savo,70620,Finland,+358 40 0229227,https://www.rpsbrewing.fi,27.6895,62.8795

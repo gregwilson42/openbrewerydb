@@ -1,0 +1,5 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+71314de9-c1c6-49b5-b4da-17a3e0497c0b,Kurikan Lakkitehdas,brewpub,Koivistonkyläntie 74,,,Panttila,South Ostrobothnia,61310,Finland,+358 50 5874541,https://www.kurikanlakkitehdas.fi,22.5855,62.5123
+04f61629-93c2-474b-bc7b-7bc4d75346c6,Mallaskosken Panimo,micro,Vesitorninkatu 1,,,Seinäjoki,South Ostrobothnia,60100,Finland,+358 40 9615663,https://www.mallaskoski.fi,22.8271,62.7944
+dae0fb1f-e463-48bd-8de7-f435334611c8,Mallaskuun Panimo,micro,Siiriläntie 261,,,Lapua,South Ostrobothnia,62100,Finland,+358 50 3633571,https://www.mallaskuunpanimo.fi,23.0112,62.9691
+5670cbda-2b98-4147-b902-29e478feb217,Pramia,micro,Ilvesjoentie 1060,,,Ilvesjoki,South Ostrobothnia,61760,Finland,+358 40 7026470,https://www.pramia.fi,22.6841,62.1984

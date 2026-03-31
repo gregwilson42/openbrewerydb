@@ -1,0 +1,4 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+a4ef6e4b-15e2-46c2-9aa9-edb4217a248b,Hailuodon Panimo,micro,Luovontie 233,,,Hailuoto,Northern Ostrobothnia,90480,Finland,+358 44 9862223,https://www.hailuodonpanimo.fi,24.7153,65.0101
+7d9be006-cb6a-4971-a023-d9409553f63c,Nailo Brewing,micro,Kempeleentie 7 B,,,Oulu,Northern Ostrobothnia,90400,Finland,+358 40 0380388,https://www.nailobrewing.fi,25.4851,64.9961
+f97e6869-9420-4795-ba22-94e7e2186fd0,Varikko Panimo,micro,Lipporannantie 2,,,Oulu,Northern Ostrobothnia,90500,Finland,+358 40 5585522,https://varikkopanimo.fi,25.4521,65.0311

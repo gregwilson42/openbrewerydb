@@ -1,0 +1,20 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+f23a8cbe-aeb7-4b47-b56c-c82725e7c08f,CoolHead Brew,micro,Koetilantie 1,,,Helsinki,Uusimaa,00790,Finland,+358 40 8291581,https://www.coolhead.fi,25.0134,60.2269
+04d2cbae-7f85-4244-b634-2fb689c68753,Etko Brewing,micro,Kumitehtaankatu 5,,,Kerava,Uusimaa,04260,Finland,+358 50 4120980,https://www.etko.beer,25.1051,60.3923
+bef79654-95be-47bd-b423-3cdd2794782c,Fat Lizard Brewing Co.,micro,Betonimiehenkuja 8,,,Espoo,Uusimaa,02150,Finland,+358 9 31523705,https://fatlizard.beer,24.8239,60.1843
+882ac21c-db01-43c9-b04c-f43129fe4ff7,Fiskarsin Panimo,micro,Peltorivi 7,,,Fiskars,Uusimaa,10470,Finland,+358 40 9381411,https://www.fiskarsinpanimo.fi,23.6062,60.1293
+be39d755-768e-4f55-9e9e-46c9992c7fb6,Husky Brewing,micro,Sahaajankatu 20 D,,,Helsinki,Uusimaa,00880,Finland,+358 40 7686981,https://www.huskybrewing.fi,25.0435,60.1932
+9b52ee6e-aa50-4218-b330-5cdd3aa1698f,Kråkö Bryggeri,micro,Veneenrakentajantie 5,,,Kråkö,Uusimaa,07410,Finland,+358 44 2314352,https://www.krakobryggeri.com,25.6881,60.3242
+9a43985f-7dff-4972-b32e-aad47cd92af0,Mad Hopper Brewing Company,brewpub,Mannerheimintie 55,,,Helsinki,Uusimaa,00250,Finland,+358 50 4721473,https://www.madhopper.fi,24.9213,60.1831
+6f4b1ce8-34ee-4ed0-9327-40b375b0cd9c,Maku Brewing,micro,Sarvivälkkeentie 12,,,Tuusula,Uusimaa,04300,Finland,+358 40 9008301,https://www.makubrewing.com,25.0441,60.4144
+6ae8510c-79bd-4865-bed0-0025aab7d199,Malmgårdin Panimo,micro,Malmgård 53,,,Malmgård,Uusimaa,07720,Finland,+358 40 0513101,https://www.malmgardinpanimo.fi,25.9284,60.5481
+3edebc5c-cc8b-48c8-b136-c691f1f12f66,Masis Brewery,micro,Tietotie 2 B,,,Espoo,Uusimaa,02150,Finland,+358 40 7351662,https://www.masisbrewery.com,24.8191,60.1834
+fda1cbd9-f33e-48a1-893d-2bf24e8ec57e,Olarin Panimo,micro,Bruno Granholmin kuja 1,,,Helsinki,Uusimaa,00510,Finland,+358 40 8401438,https://www.olarinpanimo.fi,24.9851,60.1884
+e2c6f798-efd5-4b26-be96-5b6828b68a95,Oma Panimo,micro,Tillinmäentie 3,,,Espoo,Uusimaa,02330,Finland,+358 50 3270586,https://www.omapanimo.fi,24.6331,60.1654
+b390fb27-4d74-4177-9a60-aca3cf8c6b73,Perhon Panimo,brewpub,Perhonkatu 11,,,Helsinki,Uusimaa,00100,Finland,+358 40 5090770,https://www.perhonpanimo.fi,24.9221,60.1691
+ca8db7cf-0a2e-4a1d-a1b5-8a0ed07f9f30,Rosendal Brewery,micro,Tammiston kauppatie 9,,,Vantaa,Uusimaa,01510,Finland,+358 40 0411624,https://rosendal.fi,24.9651,60.2741
+f745a2db-cdb4-44a1-94b0-b0ee539832b6,Salama Brewing Co,micro,Fallåker 1 A,,,Espoo,Uusimaa,02740,Finland,+358 40 5633860,https://www.salamabrewing.com,24.6641,60.2181
+ddfd463c-84b3-43f6-ad30-05e6e59f7896,Stadin Panimo,micro,Kaasutehtaankatu 1,,,Helsinki,Uusimaa,00540,Finland,+358 46 9224996,https://www.stadinpanimo.fi,24.9721,60.1861
+808f4b03-0ff1-4ce2-a477-0437dcaf676a,Suomenlinnan Panimo,brewpub,Suomenlinna C 1,,,Helsinki,Uusimaa,00190,Finland,+358 9 2285030,https://suomenlinnanpanimo.fi,24.9851,60.1451
+6b403709-2134-4a5c-81bc-a56446cb4ff4,Tired Uncle Brewing Co.,micro,Hämeentie 135,,,Helsinki,Uusimaa,00560,Finland,+358 50 4804855,https://store.tireduncle.beer,24.9751,60.2081
+aa9a7a99-aa51-436f-b6eb-fe7f43387625,Vanhan Porvoon Panimo,micro,Rihkamakatu 10,,,Porvoo,Uusimaa,06100,Finland,+358 40 5005822,https://www.vanhanporvoonpanimo.fi,25.6581,60.3951

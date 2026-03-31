@@ -1,0 +1,5 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+8d8f2fb0-ad44-4224-b297-ef59252efcda,Lammin Sahti,micro,Liesontie 554,,,Lammi,Kanta-Häme,16900,Finland,+358 40 5410657,https://www.sahti.fi,24.9084,61.1681
+0df7cd4c-e025-40bc-8b1e-88f3410b569b,Lepaan Panimo,micro,Viinitilantie 12,,,Lepaa,Kanta-Häme,14610,Finland,+358 3 6461,https://www.hami.fi/lepaan-viinitila,24.3855,61.1114
+5e2853f6-b159-4222-bb62-832ed6d3aeab,Panimo OlutMylly,micro,Yrittäjänkaari 17 A,,,Forssa,Kanta-Häme,30420,Finland,+358 40 5536993,https://olutmylly.fi,23.6331,60.8144
+5feba121-1bcc-4f52-9a62-ffa9332a44db,Temperance Brewing Co.,micro,Puusepänkatu 5,,,Hämeenlinna,Kanta-Häme,13110,Finland,+358 40 8331131,https://www.temperance.fi,24.4531,60.9941

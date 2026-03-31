@@ -1,0 +1,7 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+f6bbf21c-6112-4453-ad28-22e78ea4e9a8,Atmos Brewing,micro,Erkkilänkatu 11 B,,,Tampere,Pirkanmaa,33100,Finland,+358 45 78706709,https://atmosbrewing.fi,23.7745,61.5034
+ea6742a2-a84b-4a8c-b7e2-da4957fa0319,Koskipanimo,brewpub,Itäinenkatu 8,,,Tampere,Pirkanmaa,33210,Finland,+358 3 2601200,https://www.plevna.fi,23.7592,61.5008
+64205d7e-0c59-4011-ac56-44f5d8e58526,Mad Finn Brewing Co,brewpub,Pyynikintie 25-29,,,Tampere,Pirkanmaa,33230,Finland,+358 44 9811440,https://www.madfinn.fi,23.7381,61.4939
+7626c5dd-459b-48bc-9060-f17ac7d33f4e,Narvan Kyläpanimo,micro,Latomaantie 1,,,Narva,Pirkanmaa,37370,Finland,+358 40 6714092,https://www.narvankylapanimo.com,23.5112,61.2781
+16f6d882-13a7-4b41-b3ac-e4dd30e6df0f,Nokian Panimo,regional,Nuijamiestentie 17,,,Nokia,Pirkanmaa,37120,Finland,+358 50 5713305,https://www.nokianpanimo.fi,23.4981,61.4744
+c9b84694-f53d-4657-8f8b-4d341caa7e9c,Olutpaja,micro,Hämeenlinnantie 270,,,Laitikkala,Pirkanmaa,36660,Finland,+358 40 5354921,https://olutpaja.fi,24.5081,61.2291

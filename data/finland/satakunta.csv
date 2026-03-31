@@ -1,0 +1,3 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+6602e111-bb72-4ef6-90dc-bb720b8da5f6,Beer Hunter's,brewpub,Antinkatu 11,,,Pori,Satakunta,28100,Finland,+358 2 6415599,https://www.beerhunters.fi,21.7941,61.4864
+151ca3fa-1e19-4f79-bc44-d79e4de0ca1b,Olu Bryki Raum,micro,Hakrinkatu 4,,,Rauma,Satakunta,26100,Finland,+358 40 5227702,https://olubrykiraum.fi,21.5031,61.1274

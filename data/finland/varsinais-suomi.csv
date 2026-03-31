@@ -1,0 +1,9 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+96df588a-f657-4c6f-9a36-f4669e201ad4,Kakola Brewing Company,micro,Graniittilinnankatu 2,,,Turku,Varsinais-Suomi,20100,Finland,+358 40 6672011,https://www.kakolabrewing.com,22.2428,60.4429
+febd5483-0a92-4e69-afda-3c2e9ecefd55,Kimito Brewing,micro,Hallitie 8,,,Kemiö,Varsinais-Suomi,25700,Finland,+358 40 5963317,https://www.kimitobrewing.com,22.7231,60.1652
+5ad98d46-930e-4c4c-a267-038ec0b90803,Kuninkaantien Panimo,micro,Jättänväljäntie 9,,,Piikkiö,Varsinais-Suomi,21500,Finland,+358 40 8421870,https://www.kuninkaantienpanimo.fi,22.5204,60.4248
+4d948bfc-c86c-452a-b498-d95fb7394c91,Laitilan Wirvoitusjuomatehdas,regional,Limonaadikuja 4,,,Laitila,Varsinais-Suomi,23800,Finland,+358 2 85841,https://laitilan.com,21.6884,60.9161
+42b5b02d-bff2-4f9b-892c-f268703512e7,Mallassepät,micro,Lietsalantie 11,,,Naantali,Varsinais-Suomi,21110,Finland,+358 45 1195620,https://mallassepat.fi,22.0531,60.4789
+b2bb4ffb-621f-4cc5-a311-6951a8af5687,Mathildedalin Kyläpanimo,micro,Matildan puistotie 4,,,Mathildedal,Varsinais-Suomi,25660,Finland,+358 40 5088219,https://kylapanimo.fi,22.9031,60.2194
+ae4ad067-6131-4e4d-8622-1ae7fa6952ee,Panimoravintola Koulu,brewpub,Eerikinkatu 18,,,Turku,Varsinais-Suomi,20100,Finland,+358 2 2745757,https://www.panimoravintolakoulu.fi,22.2641,60.4494
+003f8de1-3fd1-46f8-8145-b90488f0d996,Vakka-Suomen Panimo,micro,Välttitie 2,,,Uusikaupunki,Varsinais-Suomi,23500,Finland,+358 2 8415200,https://www.prykmestar.fi,21.4111,60.8011

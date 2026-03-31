@@ -1,0 +1,6 @@
+id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_code,country,phone,website_url,longitude,latitude
+fb3baa12-0eca-48f3-8138-d0856ca139be,Ant Brew,brewpub,Mallaskatu 1,,,Lahti,Päijät-Häme,15140,Finland,+358 50 3028181,https://www.antbrew.fi,25.6521,60.9827
+e5034963-77e5-4c3d-8154-f61fe6181341,Hollolan Hirvi,brewpub,Aikkalantie 37,,,Hollola,Päijät-Häme,15880,Finland,+358 45 3204221,https://www.hollolanhirvi.fi,25.5342,60.9995
+22b5423b-dc12-4ed9-bfca-f2621eb8c212,Kanavan Panimo,micro,Meijeritie 1,,,Vääksy,Päijät-Häme,17200,Finland,+358 44 5242288,https://www.kanavanpanimo.fi,25.5333,61.1764
+76804371-fec2-4f97-9876-9cfd0ae374b7,Pihamaa,micro,Työmiehentie 8,,,Heinola,Päijät-Häme,18200,Finland,+358 50 5938747,https://www.viini-pihamaa.fi,26.0331,61.2014
+a1feb7b0-9a29-49e6-a994-3fbaa684a315,Teerenpeli Brewery & Distillery,micro,Liimaajankatu 5,,,Lahti,Päijät-Häme,15520,Finland,+358 40 8611081,https://www.teerenpeli.com,25.6881,60.9681
