@@ -519,6 +519,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25374403?v=4",
       "profile": "https://github.com/kpomer",
       "contributions": ["data"]
+    },
+    {
+      "login": "lglasbergen",
+      "name": "Laurens Glasbergen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3315075?v=4",
+      "profile": "https://github.com/lglasbergen",
+      "contributions": ["data"]
     }
   ],
   "contributorsPerLine": 7
